@@ -6,4 +6,4 @@
 * 将标注得到的坐标上传
 * 标注操作有时间限制，需在操作界面上显示倒计时，倒计时结束时自动关闭当前图片
 ### 提示
-* 标注操作方式，请参照此视频 TODO
+* 标注操作方式，请参照此[视频](https://v.youku.com/v_show/id_XMzgyMzQ3NzQ4OA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
